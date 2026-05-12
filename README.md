@@ -1,0 +1,2 @@
+# 5c987f0b-119e-4e59-94a7-fb83b397e99c-34367a86-6dcc-4153-b2b8-6e44e117ace3
+https://sonar.server.examly.io/dashboard?id=iamneo-production_5c987f0b-119e-4e59-94a7-fb83b397e99c-34367a86-6dcc-4153-b2b8-6e44e117ace3&amp;codeScope=overall
